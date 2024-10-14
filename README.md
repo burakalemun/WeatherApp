@@ -1,6 +1,6 @@
 # WeatherApp
 
-Merhaba! 👋
+Merhaba!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 Bu projeyi, Figma'da karşılaştığım [Weather App UI Design](https://www.figma.com/design/jbOF0DtGchrbpV0DdMTjoE/Weather-App-UI-Design-(Community)?node-id=2-2214&node-type=canvas&t=m5Pv181zoVmV6A5W-0) ilhamıyla oluşturduğum için oldukça heyecanlıyım. Proje, kullanıcı arayüzü (UI) odaklı bir uygulama olarak tasarlandı ve şu anda sadece görsel tasarım kısmı tamamlandı. Uygulama, dinamik bir yapıya sahip ve çeşitli özelliklerle zenginleştirildi.
 
